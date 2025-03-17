@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio de Desenvolvedor de Jogos</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#projetos">Projetos</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="sobre">
+            <h1>Sobre Mim</h1>
+            <p>Desenvolvedor de jogos com experiência em linguagens de programação como Java, C# e JavaScript.</p>
+        </section>
+        <section id="projetos">
+            <h1></h1>
+            <ul>
+                <li>
+                    <h2>(add jgo)</h2>
+                    <p>Descrição do jogo.</p>
+                    <img src="(add img)" alt="add">
+                </li>
+                <li>
+                    <h2>(add jogo)</h2>
+                    <p>Desceição do jogo.</p>
+                    <img src="(add img)" alt="add">
+                </li>
+            </ul>
+        </section>
+        <section id="contato">
+            <h1>Contato</h1>
+            <p>Entre em contato comigo pelo e-mail <a href="guilherme.h.nobile@gmail.com">desenvolvedor@jogos.com</a></p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Desenvolvedor de Jogos</p>
+    </footer>
+</body>
+</html>
